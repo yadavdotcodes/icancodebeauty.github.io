@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/aditya/static/css/main.1e373fde.chunk.css",
+    "main.js": "/aditya/static/js/main.d361b044.chunk.js",
+    "main.js.map": "/aditya/static/js/main.d361b044.chunk.js.map",
+    "runtime-main.js": "/aditya/static/js/runtime-main.ea637309.js",
+    "runtime-main.js.map": "/aditya/static/js/runtime-main.ea637309.js.map",
+    "static/js/2.1c08cb67.chunk.js": "/aditya/static/js/2.1c08cb67.chunk.js",
+    "static/js/2.1c08cb67.chunk.js.map": "/aditya/static/js/2.1c08cb67.chunk.js.map",
+    "static/js/3.24a57f22.chunk.js": "/aditya/static/js/3.24a57f22.chunk.js",
+    "static/js/3.24a57f22.chunk.js.map": "/aditya/static/js/3.24a57f22.chunk.js.map",
+    "index.html": "/aditya/index.html",
+    "static/css/main.1e373fde.chunk.css.map": "/aditya/static/css/main.1e373fde.chunk.css.map",
+    "static/js/2.1c08cb67.chunk.js.LICENSE.txt": "/aditya/static/js/2.1c08cb67.chunk.js.LICENSE.txt",
+    "static/media/tak.d4452021.mp3": "/aditya/static/media/tak.d4452021.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea637309.js",
+    "static/js/2.1c08cb67.chunk.js",
+    "static/css/main.1e373fde.chunk.css",
+    "static/js/main.d361b044.chunk.js"
+  ]
+}
