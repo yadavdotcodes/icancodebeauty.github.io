@@ -7,9 +7,9 @@ function Body() {
                 <h1 className="big text">Aditya Yadav</h1>
                 <hr className="hr" />
                 <div className="text-center icon">
-                    <a href="https://github.com" target="_blank" rel="noreferrer" ><i className="icon bi bi-github mx-3"></i></a>
-                    <a href="https://github.com" target="_blank" rel="noreferrer" ><i className="icon bi bi-instagram mx-3"></i></a>
-                    <a href="https://github.com" target="_blank" rel="noreferrer" ><i className="icon bi bi-youtube mx-3"></i></a>
+                    <a href="https://github.com/dedomil" target="_blank" rel="noreferrer" ><i className="icon bi bi-github mx-3"></i></a>
+                    <a href="https://instagram.com/codewithaadi" target="_blank" rel="noreferrer" ><i className="icon bi bi-instagram mx-3"></i></a>
+                    <a href="https://www.youtube.com/channel/UCb2cVlV_Ma7IIErZdYNNRKw" target="_blank" rel="noreferrer" ><i className="icon bi bi-youtube mx-3"></i></a>
                 </div>
             </div>
         </div>
