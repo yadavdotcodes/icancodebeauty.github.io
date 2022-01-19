@@ -1,21 +1,21 @@
-@import url('https://fonts.googleapis.com/css2?family=Pompiere&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Acme&display=swap");
 
-body{
-    font-family: 'Pompiere', cursive;
-    background-color: black;
-    color: white;
+body {
+  font-family: "Acme", sans-serif;
+  background-color: black;
+  color: white;
 }
 
-.big{
-    font-size: 100px;
+.big {
+  font-size: 100px;
 }
 
-.hr{
-    border: 3px solid rgb(155, 149, 235);
-    border-radius: 3px;
+.hr {
+  border: 3px solid rgb(155, 149, 235);
+  border-radius: 3px;
 }
 
-.icon{
-    font-size: 30px;
-    color: white;
+.icon {
+  font-size: 30px;
+  color: white;
 }
