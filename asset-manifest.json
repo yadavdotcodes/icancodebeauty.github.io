@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/icancodebeauty.github.io/static/css/main.ca1db75e.css",
-    "main.js": "/icancodebeauty.github.io/static/js/main.f13ccbe6.js",
-    "static/js/787.74e936a5.chunk.js": "/icancodebeauty.github.io/static/js/787.74e936a5.chunk.js",
-    "index.html": "/icancodebeauty.github.io/index.html",
-    "main.ca1db75e.css.map": "/icancodebeauty.github.io/static/css/main.ca1db75e.css.map",
-    "main.f13ccbe6.js.map": "/icancodebeauty.github.io/static/js/main.f13ccbe6.js.map",
-    "787.74e936a5.chunk.js.map": "/icancodebeauty.github.io/static/js/787.74e936a5.chunk.js.map"
+    "main.css": "/static/css/main.ca1db75e.css",
+    "main.js": "/static/js/main.829b26d2.js",
+    "static/js/787.74e936a5.chunk.js": "/static/js/787.74e936a5.chunk.js",
+    "index.html": "/index.html",
+    "main.ca1db75e.css.map": "/static/css/main.ca1db75e.css.map",
+    "main.829b26d2.js.map": "/static/js/main.829b26d2.js.map",
+    "787.74e936a5.chunk.js.map": "/static/js/787.74e936a5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ca1db75e.css",
-    "static/js/main.f13ccbe6.js"
+    "static/js/main.829b26d2.js"
   ]
 }
