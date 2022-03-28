@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Hero() {
+const Hero = () => {
     return (
         <section className="text-gray-600 body-font">
             <div className="container mx-auto flex px-5 py-12 items-center justify-center flex-col">
@@ -17,3 +17,5 @@ export default function Hero() {
         </section>
     )
 }
+
+export default Hero
