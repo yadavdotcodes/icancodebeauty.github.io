@@ -1,6 +1,6 @@
 {
-  "short_name": "Aditya Yadav",
-  "name": "Aditya Yadav's Homepage",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
