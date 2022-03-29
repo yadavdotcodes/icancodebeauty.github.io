@@ -1,8 +1,8 @@
 import React from 'react'
 import Animation from "./Animation"
 const Hero = () => {
-    if (!(location.hash == "#/")) {
-        location.hash = "#/"
+    if (!(window.location.hash === "#/")) {
+        window.location.hash = "#/"
     }
     return (
         <Animation>
@@ -13,8 +13,8 @@ const Hero = () => {
                         <h1 className="title-font sm:text-4xl text-3xl mb-4 font-bold text-base-content">Aditya Yadav 👨‍💻</h1>
                         <p className="mb-8 leading-relaxed text-base-content">A Nerd, A Programmer, A Dreamer coz. Something That Doesn&apos;t Work In Real Works In Dream So. 😉</p>
                         <div className="flex justify-center">
-                            <button onClick={() => (location.hash = "#/blogs")} className="btn btn-primary mx-2">BLog</button>
-                            <button onClick={() => (location.hash = "#/contact")} className="btn btn-primary mx-2">Contact</button>
+                            <button onClick={() => (window.location.hash = "#/blogs")} className="btn btn-primary mx-2">BLog</button>
+                            <button onClick={() => (window.location.hash = "#/contact")} className="btn btn-primary mx-2">Contact</button>
                         </div>
                     </div>
                 </div>
