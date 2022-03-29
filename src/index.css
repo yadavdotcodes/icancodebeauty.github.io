@@ -1,3 +1,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+::-webkit-scrollbar {
+  width: 0px;
+}
+.top-50 {
+  top: 50% !important;
+}
+.start-50 {
+  left: 50% !important;
+}
+.translate-middle {
+  transform: translate(-50%, -50%) !important;
+}

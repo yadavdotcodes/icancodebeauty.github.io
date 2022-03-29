@@ -1,13 +1,18 @@
 import React from 'react'
 import Hero from './components/Hero'
-import Navbar from './components/Navbar'
+import Blogs from './components/Blogs'
+import { HashRouter, Routes, Route } from "react-router-dom";
+import Navbar from './components/Navbar';
 
 const App = () => {
   return (
-    <>
+    <HashRouter>
       <Navbar />
-      <Hero />
-    </>
+      <Routes>
+        <Route path="/" element={<Hero />} />
+        <Route path="blogs" element={<Blogs />} />
+      </Routes>
+    </HashRouter>
   )
 }
 
